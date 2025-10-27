@@ -10,6 +10,8 @@ This is an **Adjustable Angle Welding Fixture** designed to simplify the fabrica
 * **Solo Operation:** By firmly gripping both workpieces in the correct orientation, this jig acts as a "second set of hands," solving the common problem of parts shifting while trying to tack-weld them.
 
 In short, this tool is a robust, adjustable jig that guarantees accurate alignment and stability for welding corner joints, significantly improving efficiency and weld quality for a single fabricator.
-<img width="1165" height="542" alt="p3" src="https://github.com/user-attachments/assets/f3d05cda-1b84-4b7d-a37e-3b6afd246104" />
-<img width="1211" height="472" alt="p2" src="https://github.com/user-attachments/assets/3b4a8269-5cbc-4722-a3a2-2bcd88e53941" />
-<img width="585" height="750" alt="p1" src="https://github.com/user-attachments/assets/41238938-cca6-4877-be55-504d2d1ec8a9" />
+
+
+<img width="750" height="500" alt="p3" src="https://github.com/user-attachments/assets/f3d05cda-1b84-4b7d-a37e-3b6afd246104" />
+<img width="750" height="500" alt="p2" src="https://github.com/user-attachments/assets/3b4a8269-5cbc-4722-a3a2-2bcd88e53941" />
+<img width="400" height="500" alt="p1" src="https://github.com/user-attachments/assets/41238938-cca6-4877-be55-504d2d1ec8a9" />
